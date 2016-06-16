@@ -5,7 +5,7 @@ IchigoJamの拡張用ピンソケットに接続することで、IchigoJamの�
 http://www.cyberchabudai.org/index.php/page/jamtoast
 
 ## このリポジトリについて
-回路図（PDF）とガーバーファイル一式。
+回路図（PDF）とガーバーファイル一式、部品リスト。
 ガーバーファイルはそのままFusionPCBやElecrowに投げれば基板が多分できるはず。
 
 ##マイコンのファームウェア
