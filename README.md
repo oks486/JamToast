@@ -6,7 +6,7 @@ http://www.cyberchabudai.org/index.php/page/jamtoast
 
 ## このリポジトリについて
 回路図（PDF）とガーバーファイル一式。
-ガーバーファイルはそのままzip圧縮してFusionPCBやElecrowに投げれば基板が多分できるはず。
+ガーバーファイルはそのままFusionPCBやElecrowに投げれば基板が多分できるはず。
 
 ##マイコンのファームウェア
 mbedのページにて公開中。（IJFWというのはJamToastのコードネームみたいなものです）
